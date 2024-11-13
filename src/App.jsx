@@ -1,47 +1,47 @@
 import React from "react";
 import Card from "./components/Card";
-import Shoes_1 from "./assets/Shoes_1.webp";
-import Shoes_2 from "./assets/Shoes_2.webp";
-import Shoes_3 from "./assets/Shoes_3.webp";
-import Shoes_4 from "./assets/Shoes_4.webp";
-import Shoes_5 from "./assets/Shoes_5.webp";
-import Shoes_6 from "./assets/Shoes_6.webp";
-import Shoes_7 from "./assets/Shoes_7.webp";
 
 const App = () => {
   const cardList = [
     {
-      image: Shoes_1,
+      image:
+        "https://cdn.media.amplience.net/i/office/3587245748_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "adidas",
       decription: "Handball Spezial Trainers Brown Earth Strata Offwhite Gum",
     },
     {
-      image: Shoes_2,
+      image:
+        "https://cdn.media.amplience.net/i/office/3587225540_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "adidas",
       decription: "Handball Spezial Trainers Offwhite Black Gum",
     },
     {
-      image: Shoes_3,
+      image:
+        "https://cdn.media.amplience.net/i/office/3836886071_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "UGG",
       decription: "Tasman Slippers Chestnut",
     },
     {
-      image: Shoes_4,
+      image:
+        "https://cdn.media.amplience.net/i/office/4434668080_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "adidas",
       decription: "Samba OG Trainers Cream White Black Sand Strata",
     },
     {
-      image: Shoes_5,
+      image:
+        "https://cdn.media.amplience.net/i/office/4360845026_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "OFFICE",
       decription: "Clint 7 Eye Lace Up Trainers Black",
     },
     {
-      image: Shoes_6,
+      image:
+        "https://cdn.media.amplience.net/i/office/5123646244_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "ASICS",
       decription: "GT-2160 Trainers White Sweet Pink",
     },
     {
-      image: Shoes_7,
+      image:
+        "https://cdn.media.amplience.net/i/office/4224951875_lh.jpg?$newpicture$&w=456&h=489&fmt=auto&qlt=default",
       title: "Crocs",
       decription: "Classic Clogs Toddler Pink Tweed Glitter",
     },
